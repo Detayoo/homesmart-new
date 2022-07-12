@@ -1,0 +1,67 @@
+.partners {
+  background-color: #000;
+  padding: 7% 3%;
+  color: #fff;
+}
+
+.partners__list {
+  padding-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px 15px;
+}
+.spotify,
+.dell,
+.cisco,
+.disney,
+.deezer,
+.verizon,
+.texas {
+  width: 110px;
+  height: 100px;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+
+.partners h1 {
+  color: #ca8a04;
+  font-weight: 700;
+}
+
+@media (min-width: 800px) {
+  .partners {
+    background-color: #000;
+    padding: 7% 15%;
+    color: #fff;
+    height: 100vh;
+    margin-bottom: 40px;
+  }
+
+  .partners__list {
+    padding: 40px 10% 0 10%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px 15px;
+  }
+  .spotify,
+  .dell,
+  .cisco,
+  .disney,
+  .deezer,
+  .verizon,
+  .texas {
+    width: 110px;
+    height: 100px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+  }
+
+  .partners h1 {
+    color: #ca8a04;
+    font-weight: 700;
+  }
+}

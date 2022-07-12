@@ -1,0 +1,40 @@
+.navigation {
+  z-index: 67768686686868655553211111111111111111;
+  background-color: #ca8404;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #ca8404;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+}
+
+.offcanvas-body, .offcanvas-header {
+  background-color: #ca8404;
+}
+
+.nav-link {
+    color: black;
+}
+
+.sign-up {
+    background-color:  black;
+}
+
+.sign-up-link {
+    color: #fff;
+}
+.login {
+    background-color: #ef4444;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.login-link {
+    color: #fff;
+}
